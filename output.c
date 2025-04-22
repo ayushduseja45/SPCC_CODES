@@ -4,6 +4,6 @@ ddknqkfdndwqd
 qw
 
 
-/*kdlnKLDNDNdnNDNKLNdnkln*/
+
 dsjkbdjkADJ
 DADAD

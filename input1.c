@@ -8,6 +8,6 @@ qw
 dsjkbdjkADJ
 DADAD
 
-printf
+writef
 
-scanf
+readf

@@ -4,6 +4,7 @@
 int comments=0;
 %}
 %%
+"/*"(.|\n)*?"*/"    {comments++;}
 "//".*  {comments++;}
 %%
 int main(){
